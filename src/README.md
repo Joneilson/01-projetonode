@@ -93,6 +93,8 @@
       <li><input type="checkbox" id="pistas-2-1-item" /> <label for="pistas-2-1-item">Caso o bloco da pista seja uma RETA, o jogador deve jogar um dado de 6 lados e somar o atributo VELOCIDADE, quem vencer ganha um ponto</label></li>
       <li><input type="checkbox" id="pistas-2-2-item" /> <label for="pistas-2-2-item">Caso o bloco da pista seja uma CURVA, o jogador deve jogar um dado de 6 lados e somar o atributo MANOBRABILIDADE, quem vencer ganha um ponto</label></li>
       <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Caso o bloco da pista seja um CONFRONTO, o jogador deve jogar um dado de 6 lados e somar o atributo PODER, quem perder, perde um ponto</label></li>
+      <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Em um CONFRONTO, o jogador que ganhar pode achar uma bomba para jogar no adversário fazendo com que ele perca 2 pontos</label></li>
+      <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Em um CONFRONTO, o jogador que ganhar pode achar uma estrela e com isso ganhar 1 ponto extra!</label></li>
       <li><input type="checkbox" id="pistas-2-3-item" /> <label for="pistas-2-3-item">Nenhum jogador pode ter pontuação negativa (valores abaixo de 0)</label></li>
     </ul>
   </li>
